@@ -1,0 +1,17 @@
+{
+  "name": "ammora-launchpad",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ammora-protocol/sdk": "0.3.9"
+  },
+  "devDependencies": {
+    "vite": "^6.4.1"
+  }
+}
